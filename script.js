@@ -19,14 +19,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você?",
+        enunciado: "O que te faz sentir que está vivendo uma vida plena e satisfatória no seu local?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "A paz, o ar puro e a conexão com a natureza me dão uma sensação de plenitude. Ter tempo para cuidar da horta, ver o pôr do sol sem pressa...",
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Acesso a cultura, eventos, a diversidade de pessoas e a facilidade de acesso a tudo me fazem sentir que aproveito a vida ao máximo. As oportunidades de aprendizado e crescimento são enormes.",
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]
