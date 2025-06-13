@@ -45,27 +45,27 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Qual é o maior desafio diário de viver onde você mora? Como você o enfrenta?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "O transporte é sempre um desafio, especialmente para acessos mais específicos ou serviços. Tenho que planejar tudo com antecedência e muitas vezes dependo de carro. Mas a tranquilidade compensa.",
                 afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "O trânsito e o tempo de deslocamento são enormes. Tento otimizar minhas rotas, usar transporte público ou bicicleta sempre que possível. Paciência é a chave! ",
                 afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Como você constrói e mantém suas relações sociais e senso de comunidade?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
+                texto: "A comunidade aqui é muito unida. Nos conhecemos todos, ajudamos uns aos outros. As festas da igreja, os mutirões e as visitas de vizinhos são essenciais para manter os laços.",
                 afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+                texto: "Participo de grupos de interesse, faço aulas, frequento eventos no meu bairro. As redes sociais também ajudam a manter contato com amigos de diferentes círculos. A diversidade de pessoas é um ponto forte.",
                 afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
             }
         ]
