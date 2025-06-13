@@ -23,7 +23,7 @@ const perguntas = [
             {
                 
                 texto:"Onde você mora atualmente?"
-                afirmacao: "  "
+                afirmacao:"nebewjbvjvb"
             },
             {
                 texto: "cidade grande.",
