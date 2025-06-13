@@ -32,14 +32,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Como você lida com os momentos de estresse ou cansaço? Onde encontra refúgio?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Quando estou estressado, busco a simplicidade: uma caminhada no meio do mato, cuidar dos animais, ou simplesmente sentar e ouvir o silêncio. A natureza me acalma",
                 afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Para desestressar, procuro um parque tranquilo, um café aconchegante, ou me perco num bom livro. Às vezes, o próprio agito da cidade, como uma corrida ou um show, me ajuda a esvaziar a mente.",
                 afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
             }
         ]
