@@ -19,11 +19,12 @@ const perguntas = [
         ]
     },
     {
+        enunciado: "kaedkaedakead"
         alternativas: [
             {
                 
-                texto:"Onde você mora atualmente?"
-                afirmacao:"nebewjbvjvb"
+                texto: "Onde você mora atualmente?"
+                afirmacao: "nebewjbvjvb"
             },
             {
                 texto: "cidade grande.",
